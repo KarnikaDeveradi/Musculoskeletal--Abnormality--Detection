@@ -2,14 +2,6 @@
 
 This project utilizes deep learning techniques to detect abnormalities in X-ray images of various body parts, including the wrist, finger, humerus, forearm, and hand. The application is developed using **Flask** and leverages TensorFlow/Keras for model inference, offering an intuitive web-based interface for medical professionals or researchers.
 
-<div align="center">
-  <img src="home.jpg" width="600"/>
-  <p><strong>Home Page of the Application</strong></p>
-
-  <img src="predict.jpg" width="600"/>
-  <p><strong>Prediction Results Page</strong></p>
-</div>
-
 ---
 
 ## 🚀 Features
