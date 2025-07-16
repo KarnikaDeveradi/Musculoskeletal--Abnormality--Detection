@@ -60,3 +60,10 @@ All models used for inference in this project are hosted on Hugging Face:
 > After downloading, place the model files into the `models/` directory within your project (create the directory if it doesn't exist).
 
 ---# Musculoskeletal--Abnormality--Detection
+
+## 📄 Related Research
+
+This project is based on methods and findings discussed in the following paper:
+
+> 🔗 [**IEEE Paper: "An Efficient Hybrid Deep Learning Model for Detecting Musculoskeletal Abnormalities"**]([https://ieeexplore.ieee.org/document/10927966](https://ieeexplore.ieee.org/document/10927835))
+
