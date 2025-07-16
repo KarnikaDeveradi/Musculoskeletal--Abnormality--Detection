@@ -65,5 +65,5 @@ All models used for inference in this project are hosted on Hugging Face:
 
 This project is based on methods and findings discussed in the following paper:
 
-> 🔗 [**IEEE Paper: "An Efficient Hybrid Deep Learning Model for Detecting Musculoskeletal Abnormalities"**]([https://ieeexplore.ieee.org/document/10927966](https://ieeexplore.ieee.org/document/10927835))
+> 🔗 [**IEEE Paper: "An Efficient Hybrid Deep Learning Model for Detecting Musculoskeletal Abnormalities"**]([https://ieeexplore.ieee.org/document/10927966])(https://ieeexplore.ieee.org/document/10927835))
 
